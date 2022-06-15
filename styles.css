@@ -1,3 +1,14 @@
-* {
-    color: yellow;
+nav {
+  background-color: goldenrod;
+}
+body {
+  background-color: #333;
+  color: white;
+}
+footer {
+  background-color: goldenrod;
+}
+.container {
+  width: 80%;
+  margin: auto;
 }
